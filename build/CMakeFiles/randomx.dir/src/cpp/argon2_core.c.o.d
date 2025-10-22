@@ -1,0 +1,32 @@
+CMakeFiles/randomx.dir/src/cpp/argon2_core.c.o: \
+  /home/someone/webminer/WebRandomX/src/cpp/argon2_core.c \
+  /usr/lib/emsdk/upstream/emscripten/cache/sysroot/include/stdio.h \
+  /usr/lib/emsdk/upstream/emscripten/cache/sysroot/include/wasi/api.h \
+  /usr/lib/emsdk/upstream/lib/clang/20/include/stddef.h \
+  /usr/lib/emsdk/upstream/emscripten/cache/sysroot/include/stddef.h \
+  /usr/lib/emsdk/upstream/lib/clang/20/include/__stddef_header_macro.h \
+  /usr/lib/emsdk/upstream/lib/clang/20/include/__stddef_ptrdiff_t.h \
+  /usr/lib/emsdk/upstream/lib/clang/20/include/__stddef_size_t.h \
+  /usr/lib/emsdk/upstream/lib/clang/20/include/__stddef_wchar_t.h \
+  /usr/lib/emsdk/upstream/lib/clang/20/include/__stddef_null.h \
+  /usr/lib/emsdk/upstream/lib/clang/20/include/__stddef_max_align_t.h \
+  /usr/lib/emsdk/upstream/lib/clang/20/include/__stddef_offsetof.h \
+  /usr/lib/emsdk/upstream/lib/clang/20/include/stdint.h \
+  /usr/lib/emsdk/upstream/emscripten/cache/sysroot/include/stdint.h \
+  /usr/lib/emsdk/upstream/emscripten/cache/sysroot/include/bits/alltypes.h \
+  /usr/lib/emsdk/upstream/emscripten/cache/sysroot/include/bits/stdint.h \
+  /usr/lib/emsdk/upstream/emscripten/cache/sysroot/include/features.h \
+  /usr/lib/emsdk/upstream/emscripten/cache/sysroot/include/compat/stdlib.h \
+  /usr/lib/emsdk/upstream/emscripten/cache/sysroot/include/stdlib.h \
+  /usr/lib/emsdk/upstream/emscripten/cache/sysroot/include/alloca.h \
+  /usr/lib/emsdk/upstream/emscripten/cache/sysroot/include/compat/string.h \
+  /usr/lib/emsdk/upstream/emscripten/cache/sysroot/include/string.h \
+  /usr/lib/emsdk/upstream/emscripten/cache/sysroot/include/strings.h \
+  /home/someone/webminer/WebRandomX/src/cpp/argon2_core.h \
+  /home/someone/webminer/WebRandomX/src/cpp/argon2.h \
+  /usr/lib/emsdk/upstream/lib/clang/20/include/limits.h \
+  /usr/lib/emsdk/upstream/emscripten/cache/sysroot/include/limits.h \
+  /usr/lib/emsdk/upstream/emscripten/cache/sysroot/include/bits/limits.h \
+  /home/someone/webminer/WebRandomX/src/cpp/blake2.h \
+  /home/someone/webminer/WebRandomX/src/cpp/blake2-impl.h \
+  /home/someone/webminer/WebRandomX/src/cpp/endian.h
