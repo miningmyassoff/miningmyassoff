@@ -1,0 +1,8 @@
+/home/someone/randomx_WORKING_miner/build/CMakeFiles/randomx.dir
+/home/someone/randomx_WORKING_miner/build/CMakeFiles/web-randomx.dir
+/home/someone/randomx_WORKING_miner/build/CMakeFiles/edit_cache.dir
+/home/someone/randomx_WORKING_miner/build/CMakeFiles/rebuild_cache.dir
+/home/someone/randomx_WORKING_miner/build/CMakeFiles/list_install_components.dir
+/home/someone/randomx_WORKING_miner/build/CMakeFiles/install.dir
+/home/someone/randomx_WORKING_miner/build/CMakeFiles/install/local.dir
+/home/someone/randomx_WORKING_miner/build/CMakeFiles/install/strip.dir

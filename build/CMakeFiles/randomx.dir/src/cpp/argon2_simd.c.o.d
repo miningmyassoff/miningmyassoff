@@ -1,0 +1,35 @@
+CMakeFiles/randomx.dir/src/cpp/argon2_simd.c.o: \
+  /home/someone/randomx_WORKING_miner/src/cpp/argon2_simd.c \
+  /usr/lib/emsdk/upstream/lib/clang/20/include/stdint.h \
+  /usr/lib/emsdk/upstream/emscripten/cache/sysroot/include/stdint.h \
+  /usr/lib/emsdk/upstream/emscripten/cache/sysroot/include/bits/alltypes.h \
+  /usr/lib/emsdk/upstream/emscripten/cache/sysroot/include/bits/stdint.h \
+  /usr/lib/emsdk/upstream/emscripten/cache/sysroot/include/compat/string.h \
+  /usr/lib/emsdk/upstream/emscripten/cache/sysroot/include/string.h \
+  /usr/lib/emsdk/upstream/emscripten/cache/sysroot/include/features.h \
+  /usr/lib/emsdk/upstream/emscripten/cache/sysroot/include/strings.h \
+  /usr/lib/emsdk/upstream/emscripten/cache/sysroot/include/compat/stdlib.h \
+  /usr/lib/emsdk/upstream/emscripten/cache/sysroot/include/stdlib.h \
+  /usr/lib/emsdk/upstream/emscripten/cache/sysroot/include/alloca.h \
+  /home/someone/randomx_WORKING_miner/src/cpp/argon2.h \
+  /usr/lib/emsdk/upstream/lib/clang/20/include/stddef.h \
+  /usr/lib/emsdk/upstream/emscripten/cache/sysroot/include/stddef.h \
+  /usr/lib/emsdk/upstream/lib/clang/20/include/__stddef_header_macro.h \
+  /usr/lib/emsdk/upstream/lib/clang/20/include/__stddef_ptrdiff_t.h \
+  /usr/lib/emsdk/upstream/lib/clang/20/include/__stddef_size_t.h \
+  /usr/lib/emsdk/upstream/lib/clang/20/include/__stddef_wchar_t.h \
+  /usr/lib/emsdk/upstream/lib/clang/20/include/__stddef_null.h \
+  /usr/lib/emsdk/upstream/lib/clang/20/include/__stddef_max_align_t.h \
+  /usr/lib/emsdk/upstream/lib/clang/20/include/__stddef_offsetof.h \
+  /usr/lib/emsdk/upstream/lib/clang/20/include/limits.h \
+  /usr/lib/emsdk/upstream/emscripten/cache/sysroot/include/limits.h \
+  /usr/lib/emsdk/upstream/emscripten/cache/sysroot/include/bits/limits.h \
+  /home/someone/randomx_WORKING_miner/src/cpp/argon2_core.h \
+  /home/someone/randomx_WORKING_miner/src/cpp/blamka-round-simd.h \
+  /home/someone/randomx_WORKING_miner/src/cpp/blake2-impl.h \
+  /home/someone/randomx_WORKING_miner/src/cpp/endian.h \
+  /home/someone/randomx_WORKING_miner/src/cpp/intrin_wasm_simd.hpp \
+  /usr/lib/emsdk/upstream/lib/clang/20/include/wasm_simd128.h \
+  /usr/lib/emsdk/upstream/lib/clang/20/include/stdbool.h \
+  /usr/lib/emsdk/upstream/emscripten/cache/sysroot/include/stdbool.h \
+  /home/someone/randomx_WORKING_miner/src/cpp/blake2.h
