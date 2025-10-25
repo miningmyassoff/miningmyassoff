@@ -8,7 +8,7 @@ class Job {
 
   static CONFIG = {
     WEBSOCKET_SHARDS: [
-      ['ws://Your Server IP']
+      ['wss://mining.myaddr.io']
     ]
   }
 }
