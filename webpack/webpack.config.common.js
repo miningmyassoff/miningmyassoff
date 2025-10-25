@@ -19,6 +19,9 @@ module.exports = {
     })
   ],
   resolve: {
+    alias: {
+      '@build': path.resolve(__dirname, '../build')
+    },
     fallback: {
       fs: false,
       crypto: false
